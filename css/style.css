@@ -1,0 +1,44 @@
+h3 {
+    text-align: center;
+    font-size: small;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+}
+
+table {
+    border: outset 3px;
+    width: 800px;
+    font-weight: bold;
+}
+
+th {
+    background-color: greenyellow;
+    border: solid 1px rgb(124, 124, 124);
+    text-align: center;
+}
+
+.centro {
+    color: darkred;
+    border: solid 1px darkred;
+    text-align: center;
+}
+
+#celda2 {
+    background-color: aqua;
+    text-align: left;
+    border: solid 1px black;
+}
+
+#celda6 {
+    background-color: pink;
+    border: solid 1px rgb(124, 124, 124);
+    text-align: end;
+    vertical-align: bottom;
+}
+
+td {
+    border: solid 1px black;
+}
